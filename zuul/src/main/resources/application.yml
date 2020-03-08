@@ -1,0 +1,12 @@
+server:
+  port: 8030   #默认端口号
+spring:
+  application:
+    name: gateway  #当前服务在注册中心的（Eureak Server）名称
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/   #注册中心的访问地址
+zuul:
+  routes:
+      provider: /p/**   #给服务提供者 provider 设置映射
