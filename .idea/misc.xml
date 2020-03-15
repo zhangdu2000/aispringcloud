@@ -17,6 +17,7 @@
         <option value="$PROJECT_DIR$/eurekaclient/pom.xml" />
         <option value="$PROJECT_DIR$/resttemplate/pom.xml" />
         <option value="$PROJECT_DIR$/untitled/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkins/pom.xml" />
       </set>
     </option>
   </component>

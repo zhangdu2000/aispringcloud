@@ -7,3 +7,5 @@ eureka:
 spring:
   application:
     name: configclient
+name: zhangdu
+age: 18

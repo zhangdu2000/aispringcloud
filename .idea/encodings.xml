@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/configClient/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/configservers/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/consumer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/erurekaclient/src/main/java" charset="UTF-8" />
@@ -14,6 +15,8 @@
     <file url="file://$PROJECT_DIR$/ribbon/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zipkinclient/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/zuul/src/main/java" charset="UTF-8" />
   </component>
 </project>
