@@ -1,2 +1,18 @@
 server:
-  port: 8090
+  port: 8888
+spring:
+  application:
+    name: configservers
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/zhangdu2000/aispringcloud.git
+          searchPaths: config
+          username: zhangdu2000
+          password: zDXDDZYQYY..520
+      label: master
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
